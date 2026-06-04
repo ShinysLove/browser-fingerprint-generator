@@ -122,7 +122,7 @@ rich>=13.0.0
 ### Запуск
 
 ```bash
-python fingerprint_generator.py
+python main.py
 ```
 
 ### Пример работы
